@@ -1,2 +1,2 @@
 #!/bin/bash
-PARENT_DIR="../"
+cp -u -n *.html ../
