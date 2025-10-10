@@ -1,0 +1,2 @@
+#!/usr/bin/env bashcp
+ln -s /bin/ls __ls__.
