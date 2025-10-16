@@ -1,6 +1,2 @@
-#!/bin/bash
-
-# Find all subdirectories in the current directory and execute chmod on them.
-# -type d: ensures only directories are selected.
-# -exec chmod o+x,g+x,a+x {} +: adds execute permission for owner, group, and others.
-find . -maxdepth 1 -type d -exec chmod o+x,g+x,a+x {} +
+#!/bin/bash 
+#-type d -exec chmod o+x,g+x,a+x {} +
