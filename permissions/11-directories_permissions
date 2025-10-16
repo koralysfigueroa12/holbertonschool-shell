@@ -1,2 +1,2 @@
-#!/bin/bash 
-#-type d -exec chmod o+x,g+x,a+x {} +
+#!/bin/bash
+chmod +X */
